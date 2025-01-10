@@ -61,3 +61,5 @@ Bu ekran görüntüsü, yöneticilerin bilgilerini güncelleyebileceği bir diğ
 ![FaturaEkrani](https://github.com/user-attachments/assets/f4b43e7d-c631-42d7-875b-c36fe3f75486)
 
 Bu ekran ise Faturaların görüntülendiği modüldür. Bu modülde Yönetici, toplam ücret, rezervasyon durumunu ve müşterinin ID bilgisini görüntülemektedir.
+
+Projenin YouTube Link'i:
