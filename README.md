@@ -1,6 +1,6 @@
 # HotelManagementSystem
 # Otel Otomasyon Sistemi
-Bu proje, otellerin rezervasyon, müşteri yönetimi ve faturalandırma süreçlerini kolaylaştırmak için geliştirilmiştir.
+Bu proje, otellerin rezervasyon, müşteri yönetimi, oda yönetimi ve faturalandırma süreçlerini kolaylaştırmak için geliştirilmiştir.
 
 ![Class(güncel)](https://github.com/user-attachments/assets/cd8502de-86a5-4bc7-bba8-ab25834a32a7)
 Bu diyagram sisteme ait Class Diyagramıdır. 
