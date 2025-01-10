@@ -15,7 +15,7 @@ Bu diyagram sisteme ait ER Diyagramıdır.Oda, Müşteri, Rezervasyon ve Fatura.
 
 
 
-
+## Proje görselleri
 ![GirisEkrani](https://github.com/user-attachments/assets/a64de6db-9cfd-4eeb-b45e-57163455712f)
 
 Bu proje, bir otel otomasyon sisteminin yönetici giriş ekranına ait bir görseldir. Yönetici TC Kimlik Numarası ve şifre bilgilerini girerek sisteme giriş yapabiliyor. "Şifreyi Göster" seçeneği ile şifreyi görüntüleyebilmektedir. Tasarım, kullanıcı dostu bir arayüz ve otelin marka kimliğini yansıtan bir tema ile hazırlanmıştır.
