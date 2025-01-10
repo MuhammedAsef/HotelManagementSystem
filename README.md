@@ -1,5 +1,6 @@
 # HotelManagementSystem
- ![girisEkrani](SS/GirisEkrani.png)
+![GirisEkrani](https://github.com/user-attachments/assets/a64de6db-9cfd-4eeb-b45e-57163455712f)
+Bu ekran görüntüsü, bir otel yönetim sisteminin müşteri işlemleri modülüne aittir. Kullanıcı bu modül üzerinden müşteri bilgilerini ekleyebilir, silebilir, güncelleyebilir ve listeleyebilir. Arayüz, müşteri kimlik bilgileri, telefon numaraları ve cinsiyet gibi detayları görüntüleme ve düzenleme imkanı sağlar. Sol tarafta diğer işlevlere hızlı erişim sağlayan bir menü bulunmaktadır.
 ![MusteriEkrani](https://github.com/user-attachments/assets/186bd3bf-4ee1-4677-b6b0-1226004be2e7)
 ![OdaEkrani](https://github.com/user-attachments/assets/a9fe477b-3214-4aa1-b6f3-f36cee7e9811)
 ![RezervasyonEkrani](https://github.com/user-attachments/assets/335ced04-40d6-4b56-8f25-be82a587e350)
