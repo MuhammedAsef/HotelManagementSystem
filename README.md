@@ -1,8 +1,11 @@
 # HotelManagementSystem
+# Otel Otomasyon Sistemi
+Bu proje, otellerin rezervasyon, müşteri yönetimi ve faturalandırma süreçlerini kolaylaştırmak için geliştirilmiştir.
+
 ![Class(güncel)](https://github.com/user-attachments/assets/cd8502de-86a5-4bc7-bba8-ab25834a32a7)
-Oda, Müşteri, Rezervasyon ve Fatura. Otel otomasyon sistemi, bu modüller arasındaki ilişkilerle oda rezervasyonlarını, müşteri bilgilerini ve faturalamayı yönetir. Şema, giriş/çıkış tarihleri, oda durumu, müşteri ayrıntıları ve ödeme takibi gibi temel özellikleri içerir.
+Bu diyagram sisteme ait Class Diyagramıdır. 
 ![ER(güncel)](https://github.com/user-attachments/assets/4bf868a0-7a56-4564-8ad6-ba038470336b)
-Oda, Müşteri, Rezervasyon ve Fatura. Otel otomasyon sistemi, bu modüller arasındaki ilişkilerle oda rezervasyonlarını, müşteri bilgilerini ve faturalamayı yönetir. Şema, giriş/çıkış tarihleri, oda durumu, müşteri ayrıntıları ve ödeme takibi gibi temel özellikleri içerir.
+Bu diyagram sisteme ait ER Diyagramıdır.Oda, Müşteri, Rezervasyon ve Fatura. Otel otomasyon sistemi, bu modüller arasındaki ilişkilerle oda rezervasyonlarını, müşteri bilgilerini ve faturalamayı yönetir. Şema, giriş/çıkış tarihleri, oda durumu, müşteri ayrıntıları ve fatura takibi gibi temel özellikleri içerir.
 ![use-case(excalidraw)2](https://github.com/user-attachments/assets/7a9c6c4e-b762-4710-9160-cdbef611e562)
 
 
@@ -12,6 +15,12 @@ Oda, Müşteri, Rezervasyon ve Fatura. Otel otomasyon sistemi, bu modüller aras
 Bu proje, bir otel otomasyon sisteminin yönetici giriş ekranına ait bir görseldir. Yönetici TC Kimlik Numarası ve şifre bilgilerini girerek sisteme giriş yapabiliyor. "Şifreyi Göster" seçeneği ile şifreyi görüntüleyebilmektedir. Tasarım, kullanıcı dostu bir arayüz ve otelin marka kimliğini yansıtan bir tema ile hazırlanmıştır.
 ![MusteriEkrani](https://github.com/user-attachments/assets/186bd3bf-4ee1-4677-b6b0-1226004be2e7)
 Bu ekran görüntüsü, bir otel yönetim sisteminin müşteri işlemleri modülüne aittir. Kullanıcı bu modül üzerinden müşteri bilgilerini ekleyebilir, silebilir, güncelleyebilir ve listeleyebilir. Arayüz, müşteri kimlik bilgileri, telefon numaraları ve cinsiyet gibi detayları görüntüleme ve düzenleme imkanı sağlar. Sol tarafta diğer işlevlere hızlı erişim sağlayan bir menü bulunmaktadır.
+Özellikler:
+*Müşteri Ekleme:Yeni bir müşteri sisteme kayıt yapılabilir.
+*Müşteri Silme:Var olan herhangi bir müşteri listeden seçilerek silinebilir.
+*Müşteri Güncelleme:Sistem'e kayıtlı herhangi bir müşteri bilgisi üzerinde güncelleme yapılabilir.
+*Müşteri Listesi:Sistem'e kayıtlı müşteriler kimlik bilgileri, telefon numaraları vs. diğer tüm detaylar listelenir.
+*Arama özelliği: Herhangi bir müşteri hızlıca bulunmak istediği zaman arama çubuğu kullanılabilir.
 ![OdaEkrani](https://github.com/user-attachments/assets/a9fe477b-3214-4aa1-b6f3-f36cee7e9811)
 Bu ekranda ise otel otomasyon sisteminin oda yönetimi ekranına ait bir fotoğraftır.. Bu ekrandan otelin odalarına ilişkin işlemler kolayca gerçekleştirilebilir.
 Özellikler:
