@@ -26,10 +26,10 @@ Bu proje, bir otel otomasyon sisteminin yönetici giriş ekranına ait bir görs
 
 Bu ekran görüntüsü, bir otel yönetim sisteminin müşteri işlemleri modülüne aittir. Kullanıcı bu modül üzerinden müşteri bilgilerini ekleyebilir, silebilir, güncelleyebilir ve listeleyebilir. Arayüz, müşteri kimlik bilgileri, telefon numaraları ve cinsiyet gibi detayları görüntüleme ve düzenleme imkanı sağlar. Sol tarafta diğer işlevlere hızlı erişim sağlayan bir menü bulunmaktadır.
 Özellikler:
-+ Müşteri Ekleme:Yeni bir müşteri sisteme kayıt yapılabilir.
-+ Müşteri Silme:Var olan herhangi bir müşteri listeden seçilerek silinebilir.
-+ Müşteri Güncelleme:Sistem'e kayıtlı herhangi bir müşteri bilgisi üzerinde güncelleme yapılabilir.
-+ Müşteri Listesi:Sistem'e kayıtlı müşteriler kimlik bilgileri, telefon numaraları vs. diğer tüm detaylar listelenir.
++ Müşteri Ekleme: Yeni bir müşteri sisteme kayıt yapılabilir.
++ Müşteri Silme: Var olan herhangi bir müşteri listeden seçilerek silinebilir.
++ Müşteri Güncelleme: Sistem'e kayıtlı herhangi bir müşteri bilgisi üzerinde güncelleme yapılabilir.
++ Müşteri Listesi: Sistem'e kayıtlı müşteriler kimlik bilgileri, telefon numaraları vs. diğer tüm detaylar listelenir.
 + Arama özelliği: Herhangi bir müşteri hızlıca bulunmak istediği zaman arama çubuğu kullanılabilir.
 
 
