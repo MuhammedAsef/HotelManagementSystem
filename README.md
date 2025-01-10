@@ -1,4 +1,4 @@
-### Otel Otomasyon Sistemi
+### <h1 style="color: red;">Otel Otomasyon Sistemi</h1>
 Bu proje, otellerin rezervasyon, müşteri yönetimi, oda yönetimi ve faturalandırma süreçlerini kolaylaştırmak için geliştirilmiştir.
 ## Diyagramlar
 
