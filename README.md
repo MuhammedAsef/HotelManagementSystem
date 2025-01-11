@@ -1,13 +1,13 @@
 <h1 style="color: red;">Otel Otomasyon Sistemi</h1>
 Bu proje, otellerin rezervasyon, müşteri yönetimi, oda yönetimi ve faturalandırma süreçlerini kolaylaştırmak için geliştirilmiştir.
-## Diyagramlar
+### Diyagramlar
 
 #Class Diyagramı
 ![Class(güncel)](https://github.com/user-attachments/assets/64cae3b4-97d5-4625-8f0e-5d8c05681072)
 Bu diyagram sisteme ait Class Diyagramıdır.
 
 #ER Diyagramı
-![ER(güncel)](https://github.com/user-attachments/assets/4bf868a0-7a56-4564-8ad6-ba038470336b)
+![ER(güncel)](https://github.com/user-attachments/assets/0f5efe48-8b3f-44c6-9e2d-b60aec9db1b3)
 Bu diyagram sisteme ait ER Diyagramıdır.Oda, Müşteri, Rezervasyon ve Fatura. Otel otomasyon sistemi, bu modüller arasındaki ilişkilerle oda rezervasyonlarını, müşteri bilgilerini ve faturalamayı yönetir. Şema, giriş/çıkış tarihleri, oda durumu, müşteri ayrıntıları ve fatura takibi gibi temel özellikleri içerir.
 
 #Use-case Diyagramı
