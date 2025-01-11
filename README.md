@@ -1,9 +1,9 @@
 # Hotel Management System
 Bu proje, otellerin rezervasyon, müşteri yönetimi, oda yönetimi ve faturalandırma süreçlerini kolaylaştırmak için geliştirilmiştir.
 
-## Diyagramlar
+## *Diyagramlar*
 
-###Class Diyagramı
+__*#Class Diyagramı*__
 ![Class(güncel)](https://github.com/user-attachments/assets/f01e1e7b-5d94-4fea-8b7d-e904b9b83670)
 Bu diyagram Otel Otomasyon sistemine ait Class Diyagramıdır.
 + Yönetici (Yonetici): Otel yöneticileri için tanımlanan sınıftır. Odaları, müşterileri ve rezervasyonları yönetmek için gerekli özellik ve metotlara sahiptir.
@@ -17,11 +17,15 @@ Bu diyagram Otel Otomasyon sistemine ait Class Diyagramıdır.
 + Bir oda, bir rezervasyon ile ilişkilendirilir.
 + Her rezervasyon, bir fatura ile ilişkilendirilir
 
-#ER Diyagramı
+
+
+__*#ER Diyagramı*__
 ![ER(güncel)](https://github.com/user-attachments/assets/3057485a-5e05-4806-bba5-10d7225e7bae)
 Bu diyagram sisteme ait ER Diyagramıdır.Oda, Müşteri, Rezervasyon ve Fatura. Otel otomasyon sistemi, bu modüller arasındaki ilişkilerle oda rezervasyonlarını, müşteri bilgilerini ve faturalamayı yönetir. Şema, giriş/çıkış tarihleri, oda durumu, müşteri ayrıntıları ve fatura takibi gibi temel özellikleri içerir.
 
-#Use-case Diyagramı
+
+
+__*#Use-case Diyagramı*__
 ![use-case(excalidraw)2](https://github.com/user-attachments/assets/075d2419-abd7-493c-b0d7-adc4b7970b08)
 Bu diyagram ise Otel otomasyon sistemi için tasarlanan Use-case diyagramıdır. Sistemin işleyişini ve yöneticinin gerçekleştirebileceği işlemleri gösterir.
 Yönetici:
@@ -47,10 +51,12 @@ Oda Yönetimi
 Fatura Yönetimi
 + Fatura Görüntüle: Aktif ve Geçmiş Rezervasyonlara ait faturaların incelenmesini sağlar.
 
-## Proje görselleri
+
+
+## *Proje görselleri*
 ![GirisEkrani](https://github.com/user-attachments/assets/a64de6db-9cfd-4eeb-b45e-57163455712f)
 
-Bu proje, bir otel otomasyon sisteminin yönetici giriş ekranına ait bir görseldir. Yönetici TC Kimlik Numarası ve şifre bilgilerini girerek sisteme giriş yapabiliyor. "Şifreyi Göster" seçeneği ile şifreyi görüntüleyebilmektedir. Tasarım, kullanıcı dostu bir arayüz ve otelin marka kimliğini yansıtan bir tema ile hazırlanmıştır.
+Bu resim, otel otomasyon sisteminin yönetici giriş ekranına ait bir görseldir. Yönetici TC Kimlik Numarası ve şifre bilgilerini girerek sisteme giriş yapabiliyor. "Şifreyi Göster" seçeneği ile şifreyi görüntüleyebilmektedir. Tasarım, kullanıcı dostu bir arayüz ve otelin marka kimliğini yansıtan bir tema ile hazırlanmıştır.
 
 
 ![MusteriEkrani](https://github.com/user-attachments/assets/186bd3bf-4ee1-4677-b6b0-1226004be2e7)
@@ -85,13 +91,16 @@ Bu ekran, otel otomasyon sisteminin rezervasyon işlemlerini yönetmek için tas
 + Dinamik Tarih Seçimi: Giriş ve çıkış tarihleri için kullanıcı dostu tarih seçimi yapılabilir.
 
 
+
+![FaturaEkrani](https://github.com/user-attachments/assets/f4b43e7d-c631-42d7-875b-c36fe3f75486)
+
+Bu ekran ise Faturaların görüntülendiği modüldür. Bu modülde Yönetici, toplam ücret, rezervasyon durumunu ve müşterinin ID bilgisini görüntülemektedir.
+
+
 ![BilgiDuzenlemeEkrani](https://github.com/user-attachments/assets/df2df199-c246-4e96-8143-f6ba919c4449)
 
 Bir diğer ekran ise, yöneticilerin bilgilerini güncelleyebileceği ekrandır. Yöneticiler herhangi bir şifre değişikliğine gitmek istediklerinde buradan kolaylıkla değiştirebilmektedirler.
 
 
-![FaturaEkrani](https://github.com/user-attachments/assets/f4b43e7d-c631-42d7-875b-c36fe3f75486)
-
-Bu ekran ise Faturaların görüntülendiği modüldür. Bu modülde Yönetici, toplam ücret, rezervasyon durumunu ve müşterinin ID bilgisini görüntülemektedir.
 
 Projenin YouTube Link'i:
