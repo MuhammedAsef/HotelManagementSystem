@@ -5,7 +5,17 @@ Bu proje, otellerin rezervasyon, müşteri yönetimi, oda yönetimi ve faturalan
 
 #Class Diyagramı
 ![Class(güncel)](https://github.com/user-attachments/assets/f01e1e7b-5d94-4fea-8b7d-e904b9b83670)
-Bu diyagram sisteme ait Class Diyagramıdır.
+Bu diyagram Otel Otomasyon sistemine ait Class Diyagramıdır.
++ Yönetici (Yonetici): Otel yöneticileri için tanımlanan sınıftır. Odaları, müşterileri ve rezervasyonları yönetmek için gerekli özellik ve metotlara sahiptir.
++ Oda: Oteldeki odaların bilgilerini içerir. Oda ekleme ve güncelleme işlemlerini sağlar.
++ Müşteri (Musteri): Otel müşterilerinin bilgilerini tutar. Rezervasyon işlemleri bu sınıf üzerinden ilişkilendirilir.
++ Rezervasyon: Rezervasyon işlemleri için kullanılan sınıftır. Müşteri ve oda bilgileri ile ilişkilidir. Rezervasyon oluşturma, silme ve fiyat hesaplama gibi metotlara sahiptir.
++ Fatura: Her bir rezervasyon için oluşturulan faturaları temsil eder. Rezervasyon ve müşteri bilgileri ile ilişkilidir.
+İlişkiler ise:
++ Bir yönetici, birden fazla odayı ve rezervasyonu yönetebilir.
++ Bir müşteri, bir veya birden fazla rezervasyona sahip olabilir.
++ Bir oda, bir rezervasyon ile ilişkilendirilir.
++ Her rezervasyon, bir fatura ile ilişkilendirilir
 
 #ER Diyagramı
 ![ER(güncel)](https://github.com/user-attachments/assets/3057485a-5e05-4806-bba5-10d7225e7bae)
@@ -13,7 +23,29 @@ Bu diyagram sisteme ait ER Diyagramıdır.Oda, Müşteri, Rezervasyon ve Fatura.
 
 #Use-case Diyagramı
 ![use-case(excalidraw)2](https://github.com/user-attachments/assets/075d2419-abd7-493c-b0d7-adc4b7970b08)
+Bu diyagram ise Otel otomasyon sistemi için tasarlanan Use-case diyagramıdır. Sistemin işleyişini ve yöneticinin gerçekleştirebileceği işlemleri gösterir.
+Yönetici:
+Sistemin ana kullanıcısıdır ve tüm modüllerle etkileşim halindedir. Aşağıdaki işlemleri gerçekleştirebilir:
 
+Oda Yönetimi
++ Oda Ekle: Yeni odaların sisteme eklenmesini sağlar.
++ Oda Düzenle: Var olan odaların bilgilerinin güncellenmesini sağlar.
++ Oda Sil: Artık kullanılmayan odaların sistemden kaldırılmasını sağlar.
++ Oda Görüntüle: Odalara ait bilgilerin görüntülenmesini sağlar.
+
+ Müşteri Yönetimi
++ Müşteri Ekle: Yeni müşterilerin sisteme eklenmesini sağlar.
++ Müşteri Düzenle: Var olan müşterilerin bilgilerinin güncellenmesini sağlar.
++ Müşteri Sil: Artık sistemde tutulmayan müşterilerin kaldırılmasını sağlar.
++ Müşteri Görüntüle: Müşteri bilgilerine erişim sağlar.
+
+ Rezervasyon Yönetimi
++ Rezervasyon Oluştur: Yeni rezervasyonların yapılmasını sağlar.
++ Rezervasyon Görüntüle: Mevcut rezervasyonların detaylarına ulaşılmasını sağlar.
++ Giriş Tarihi/Çıkış Tarihi Ayarla: Rezervasyon tarihlerinin düzenlenmesini sağlar.
+
+Fatura Yönetimi
++ Fatura Görüntüle: Aktif ve Geçmiş Rezervasyonlara ait faturaların incelenmesini sağlar.
 
 ## Proje görselleri
 ![GirisEkrani](https://github.com/user-attachments/assets/a64de6db-9cfd-4eeb-b45e-57163455712f)
