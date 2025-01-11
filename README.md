@@ -99,7 +99,7 @@ Bu ekran ise Faturaların görüntülendiği modüldür. Bu modülde Yönetici, 
 
 ![BilgiDuzenlemeEkrani](https://github.com/user-attachments/assets/df2df199-c246-4e96-8143-f6ba919c4449)
 
-Bir diğer ekran ise, yöneticilerin bilgilerini güncelleyebileceği ekrandır. Yöneticiler herhangi bir şifre değişikliğine gitmek istediklerinde buradan kolaylıkla değiştirebilmektedirler.
+Bir diğer ekran ise, yöneticilerin bilgilerini güncelleyebileceği ekrandır. Yöneticiler bir şifre değişikliğine gitmek istediklerinde buradan kolaylıkla değiştirebilmektedirler.
 
 
 
