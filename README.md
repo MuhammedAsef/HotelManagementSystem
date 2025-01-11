@@ -1,4 +1,4 @@
-### Hotel Management System
+# Hotel Management System
 Bu proje, otellerin rezervasyon, müşteri yönetimi, oda yönetimi ve faturalandırma süreçlerini kolaylaştırmak için geliştirilmiştir.
 
 ## Diyagramlar
