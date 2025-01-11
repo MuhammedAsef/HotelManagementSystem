@@ -87,7 +87,7 @@ Bu ekran, otel otomasyon sisteminin rezervasyon işlemlerini yönetmek için tas
 
 ![BilgiDuzenlemeEkrani](https://github.com/user-attachments/assets/df2df199-c246-4e96-8143-f6ba919c4449)
 
-Bu ekran görüntüsü, yöneticilerin bilgilerini güncelleyebileceği bir diğer ekrandır. Yöneticiler herhangi bir şifre değişikliğine gitmek istediklerinde buradan kolaylıkla değiştirebilmektedirler.
+Bir diğer ekran ise, yöneticilerin bilgilerini güncelleyebileceği ekrandır. Yöneticiler herhangi bir şifre değişikliğine gitmek istediklerinde buradan kolaylıkla değiştirebilmektedirler.
 
 
 ![FaturaEkrani](https://github.com/user-attachments/assets/f4b43e7d-c631-42d7-875b-c36fe3f75486)
