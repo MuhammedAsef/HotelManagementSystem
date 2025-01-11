@@ -65,7 +65,7 @@ Bu resim, otel otomasyon sisteminin yönetici giriş ekranına ait bir görseldi
 
 ![MusteriEkrani](https://github.com/user-attachments/assets/186bd3bf-4ee1-4677-b6b0-1226004be2e7)
 
-Bu ekran görüntüsü, bir otel yönetim sisteminin müşteri işlemleri modülüne aittir. Kullanıcı bu modül üzerinden müşteri bilgilerini ekleyebilir, silebilir, güncelleyebilir ve listeleyebilir. Arayüz, müşteri kimlik bilgileri, telefon numaraları ve cinsiyet gibi detayları görüntüleme ve düzenleme imkanı sağlar. Sol tarafta diğer işlevlere hızlı erişim sağlayan bir menü bulunmaktadır.
+Bu ekran görüntüsü, otel yönetim sisteminin müşteri işlemleri modülüne aittir. Yönetici bu modül üzerinden müşteri ekleyebilir, silebilir, listeleyebilir ve bilgilerini güncelleyebilir. Arayüz, müşteri kimlik bilgileri, telefon numaraları ve cinsiyet gibi detayları görüntüleme ve düzenleme imkanı sağlar. Sol tarafta diğer işlevlere hızlı erişim sağlayan bir menü bulunmaktadır.
 Özellikler:
 + Müşteri Ekleme: Yeni bir müşteri sisteme kayıt yapılabilir.
 + Müşteri Silme: Var olan herhangi bir müşteri listeden seçilerek silinebilir.
