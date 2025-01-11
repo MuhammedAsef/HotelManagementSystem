@@ -31,25 +31,29 @@ Bu diyagram ise Otel otomasyon sistemi için tasarlanan Use-case diyagramıdır.
 Yönetici:
 Sistemin ana kullanıcısıdır ve tüm modüllerle etkileşim halindedir. Aşağıdaki işlemleri gerçekleştirebilir:
 
-Oda Yönetimi
-+ Oda Ekle: Yeni odaların sisteme eklenmesini sağlar.
-+ Oda Düzenle: Var olan odaların bilgilerinin güncellenmesini sağlar.
-+ Oda Sil: Artık kullanılmayan odaların sistemden kaldırılmasını sağlar.
-+ Oda Görüntüle: Odalara ait bilgilerin görüntülenmesini sağlar.
+| Oda Yönetimi |                                                
+|--------------|
+| + Oda Ekle: Yeni odaların sisteme eklenmesini sağlar. |
+| + Oda Düzenle: Var olan odaların bilgilerinin güncellenmesini sağlar. |
+| + Oda Sil: Artık kullanılmayan odaların sistemden kaldırılmasını sağlar. |
+| + Oda Görüntüle: Odalara ait bilgilerin görüntülenmesini sağlar. |
 
- Müşteri Yönetimi
-+ Müşteri Ekle: Yeni müşterilerin sisteme eklenmesini sağlar.
-+ Müşteri Düzenle: Var olan müşterilerin bilgilerinin güncellenmesini sağlar.
-+ Müşteri Sil: Artık sistemde tutulmayan müşterilerin kaldırılmasını sağlar.
-+ Müşteri Görüntüle: Müşteri bilgilerine erişim sağlar.
+| Müşteri Yönetimi |
+|--------------|
+| + Müşteri Ekle: Yeni müşterilerin sisteme eklenmesini sağlar. |
+| + Müşteri Düzenle: Var olan müşterilerin bilgilerinin güncellenmesini sağlar. |
+| + Müşteri Sil: Artık sistemde tutulmayan müşterilerin kaldırılmasını sağlar. |
+| + Müşteri Görüntüle: Müşteri bilgilerine erişim sağlar. |
 
- Rezervasyon Yönetimi
-+ Rezervasyon Oluştur: Yeni rezervasyonların yapılmasını sağlar.
-+ Rezervasyon Görüntüle: Mevcut rezervasyonların detaylarına ulaşılmasını sağlar.
-+ Giriş Tarihi/Çıkış Tarihi Ayarla: Rezervasyon tarihlerinin düzenlenmesini sağlar.
+| Rezervasyon Yönetimi |
+|--------------|
+| + Rezervasyon Oluştur: Yeni rezervasyonların yapılmasını sağlar. |
+| + Rezervasyon Görüntüle: Mevcut rezervasyonların detaylarına ulaşılmasını sağlar. |
+| + Giriş Tarihi/Çıkış Tarihi Ayarla: Rezervasyon tarihlerinin düzenlenmesini sağlar. |
 
-Fatura Yönetimi
-+ Fatura Görüntüle: Aktif ve Geçmiş Rezervasyonlara ait faturaların incelenmesini sağlar.
+| Fatura Yönetimi |
+|--------------|
+| + Fatura Görüntüle: Aktif ve Geçmiş Rezervasyonlara ait faturaların incelenmesini sağlar. |
 
 
 
@@ -104,3 +108,6 @@ Bir diğer ekran ise, yöneticilerin bilgilerini güncelleyebileceği ekrandır.
 
 
 Projenin YouTube Link'i:
+
+**Önemli Not:**
+*Bu proje eğitim amaçlı hazırlanmıştır ve ticari kullanım için uygun değildir.*
