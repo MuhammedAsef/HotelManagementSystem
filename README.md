@@ -4,7 +4,7 @@ Bu proje, otellerin rezervasyon, müşteri yönetimi, oda yönetimi ve faturalan
 ## *Diyagramlar*
 
 __*#Class Diyagramı*__
-![Class(güncel)](https://github.com/user-attachments/assets/f01e1e7b-5d94-4fea-8b7d-e904b9b83670)
+![Class(güncel)](https://github.com/user-attachments/assets/4d1cfe51-c7b4-47f1-9876-db54945bec00)
 Bu diyagram Otel Otomasyon sistemine ait Class Diyagramıdır.
 + Yönetici (Yonetici): Otel yöneticileri için tanımlanan sınıftır. Odaları, müşterileri ve rezervasyonları yönetmek için gerekli özellik ve metotlara sahiptir.
 + Oda: Oteldeki odaların bilgilerini içerir. Oda ekleme ve güncelleme işlemlerini sağlar.
