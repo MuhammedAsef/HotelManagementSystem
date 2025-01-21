@@ -20,7 +20,7 @@ Bu diyagram Otel Otomasyon sistemine ait Class Diyagramıdır.
 
 
 __*#ER Diyagramı*__
-![ER(güncel)](https://github.com/user-attachments/assets/3057485a-5e05-4806-bba5-10d7225e7bae)
+![ER(güncel)](https://github.com/user-attachments/assets/dc4f0e4c-c637-4fb4-896b-dad19535367e)
 Bu diyagram sisteme ait ER Diyagramıdır.Oda, Müşteri, Rezervasyon ve Fatura. Otel otomasyon sistemi, bu modüller arasındaki ilişkilerle oda rezervasyonlarını, müşteri bilgilerini ve faturalamayı yönetir. Şema, giriş/çıkış tarihleri, oda durumu, müşteri ayrıntıları ve fatura takibi gibi temel özellikleri içerir.
 
 
