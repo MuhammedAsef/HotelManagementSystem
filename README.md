@@ -109,7 +109,7 @@ Bir diğer ekran ise, yöneticilerin bilgilerini güncelleyebileceği ekrandır.
 
 
 
-Projenin YouTube Link'i: https://youtu.be/nwnRoKL46Y4
+Projenin YouTube Link'i: https://youtu.be/WM2qYReSAR8
 
 **Önemli Not:**
 *Bu proje eğitim amaçlı hazırlanmıştır ve ticari kullanım için uygun değildir.*
